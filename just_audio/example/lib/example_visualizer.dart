@@ -11,7 +11,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:just_audio/just_audio.dart';
-import 'package:just_audio_example/common.dart';
+import 'common.dart';
 import 'package:rxdart/rxdart.dart';
 
 void main() => runApp(const MyApp());
